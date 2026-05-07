@@ -2,11 +2,13 @@
 
 Desain ini bertujuan untuk menghasilkan frame drone yang kuat, ringan, dan mudah untuk dirakit.
 
-## Fitur
-- Desain base atas
-- Desain base bawah
+## Design Fiture
+- Base atas
+- Base bawah
 - Sayap
 - Kaki
+- Case receiver
+- Case baterai
 
 ## Tools
 - Software Autodesk Inventor
